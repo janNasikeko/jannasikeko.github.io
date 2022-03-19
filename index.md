@@ -1,7 +1,3 @@
-# nasin sona kiwen
+# ale
 
-- [nasin Standard Model](https://jannasikeko.github.io/Standard_Model)
-
-# nasin sona kon
-
-- [toki pi nasin sona nasa](https://jannasikeko.github.io/Paradoxes)
+- [isipin pi sitelen lape](https://jannasikeko.github.io/isipin_pi_sitelen_lape)
